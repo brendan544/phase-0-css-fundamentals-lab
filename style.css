@@ -2,4 +2,35 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+  padding-top: 10px;
+  padding: 0;
 }
+
+h1 {
+ text-align: center; 
+}
+
+.navbar {
+  margin-bottom: 50px;
+  border-radius: 0%;
+padding: 10px;
+background-color: grey;
+}
+
+
+Div {
+  float: left;
+  text-align: center;
+  width: 25%;
+
+} 
+
+ 
+
+
+
+
+
+   
+ 
